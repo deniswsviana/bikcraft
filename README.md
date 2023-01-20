@@ -3,7 +3,7 @@
 ![bikraft-pg-redme](https://user-images.githubusercontent.com/83190770/213800173-42d4da35-d69c-455d-b774-644b3f6b5585.png)
 
 
-:book: Projeto desenvolvido ao longo do curso de HTML e CSS - Origamid :book:
+<h2>:book: Projeto desenvolvido ao longo do curso de HTML e CSS - Origamid :book:</h2>
 
 # 📁 Acesso ao projeto
 
