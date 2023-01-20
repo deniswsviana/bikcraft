@@ -7,7 +7,7 @@
 
 # 📁 Acesso ao projeto
 
-**Voce pode acessar o projeto através do link https://github.com/deniswsviana/bikcraft** 
+**Voce pode acessar o projeto através do repositório https://github.com/deniswsviana/bikcraft <br> ou através do link https://deniswsviana.github.io/deniswsviana.github.io-bikcraft/** 
 
 <h2>:heavy_check_mark: Técnologias utilizadas :heavy_check_mark:</h2>
 - HTML
