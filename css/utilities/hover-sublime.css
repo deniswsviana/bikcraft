@@ -1,0 +1,43 @@
+.hover{
+    color: var(--cor-03);
+    display: inline-block;
+    padding: 16px 0px;
+    position: relative;
+  }
+  .hover:hover {
+    color: var(--cor-00);
+    transition: 0.3s;
+  }
+  .hover::after {
+    content: "";
+    display: block;
+    height: 4px;
+    width: 0%;
+    right: 50%;
+    background: var(--cor-00);
+    margin-top: 4px;
+    position: absolute;
+  }
+  .hover:hover::after,
+  .hover.ativo::after   {
+    width: 50%;
+    transition: 0.4s;
+    transition-timing-function: ease-out;
+  }
+  .hover::before {
+    content: "";
+    display: block;
+    height: 4px;
+    width: 0%;
+    left: 50%;
+    background: var(--cor-00);
+    margin-top: 4px;
+    position: absolute;
+  }
+  .hover:hover::before,
+  .hover.ativo::before  {
+    width: 50%;
+    transition: 0.4s;
+    transition-timing-function: ease-out;
+    top: 40px;
+  }
