@@ -9,7 +9,7 @@
 
 **Voce pode acessar o projeto através do link https://github.com/deniswsviana/bikcraft** 
 
-#<h2>:heavy_check_mark: Técnologias utilizadas :heavy_check_mark:</h2>
+<h2>:heavy_check_mark: #Técnologias utilizadas :heavy_check_mark:</h2>
 - HTML
 - CSS
 - JAVASCRIPT 
